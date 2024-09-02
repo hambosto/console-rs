@@ -19,8 +19,8 @@ This project implements a basic custom shell in Rust that supports command execu
 
 1. Clone the repository:
    ```
-   git clone https://github.com/hambosto/linux-shell-rs.git
-   cd linux-shell-rs
+   git clone https://github.com/hambosto/console-rs.git
+   cd console-rs
    ```
 
 2. Build the project:
