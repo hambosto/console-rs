@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "linux-shell-rs"
+name = "console-rs"
 version = "0.1.0"
